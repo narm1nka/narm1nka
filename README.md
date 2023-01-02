@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 Looking for new content to learn something new
-- 🥅 2022 Goals: Learn more about web3
+- 🥅 2023 Goals: Learn more about web3
 - ⚡ Fun fact: I love rollerblading
 - 😻 Check out the NFT collection I created: [CodeCats](https://opensea.io/collection/codecats?search[sortAscending]=true&search[sortBy]=PRICE&search[toggles][0]=BUY_NOW)
 
